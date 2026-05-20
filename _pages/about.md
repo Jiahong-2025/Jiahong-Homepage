@@ -8,8 +8,8 @@ profile:
   image: head.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Keck Laboratory</p>
-    <p>Pasadena CA 91125</p>
+    Keck Laboratory Pasadena CA 91125<br>
+    jiahong@caltech.edu
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
