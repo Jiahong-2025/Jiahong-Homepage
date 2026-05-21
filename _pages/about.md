@@ -42,6 +42,8 @@ I am a Ph.D. candidate in Medical Engineering at the California Institute of Tec
 My work integrates stretchable materials, electrochemical sensing, wireless electronics, and bioadhesive interfaces to develop next-generation biomedical devices for both wearable and implantable applications.
 </p>
 
+<div style="clear: both;"></div>
+
 <div style="margin-top:80px; margin-bottom:50px;">
 
   <h2 style="text-align:center; font-family:Georgia, 'Times New Roman', serif; font-size:3rem; font-weight:500; margin-bottom:20px;">
