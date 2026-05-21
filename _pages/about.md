@@ -14,16 +14,16 @@ profile:
     jiahong@caltech.edu
 
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -42,4 +42,41 @@ I am a Ph.D. candidate in Medical Engineering at the California Institute of Tec
 My work integrates stretchable materials, electrochemical sensing, wireless electronics, and bioadhesive interfaces to develop next-generation biomedical devices for both wearable and implantable applications.
 </p>
 
+<div style="margin-top:80px; margin-bottom:50px;">
+
+  <h2 style="text-align:center; font-family:Georgia, 'Times New Roman', serif; font-size:3rem; font-weight:500; margin-bottom:20px;">
+    Research Area
+  </h2>
+
+  <h3 style="text-align:center; font-family:Georgia, 'Times New Roman', serif; font-size:1.8rem; font-weight:600; letter-spacing:1px; margin-bottom:40px;">
+    Soft Bioelectronics and Biomedical Devices
+  </h3>
+
+  <div style="display:grid; grid-template-columns:1fr 1fr; gap:25px; align-items:start;">
+
+```
+<div>
+  <img src="/assets/img/1.jpg" style="width:100%; height:320px; object-fit:cover;">
+  <h4 style="margin-top:15px; font-size:1.2rem; font-weight:700;">
+    Implantable Bioelectronics
+  </h4>
+  <p style="font-size:1rem; line-height:1.6; color:#444;">
+    Stretchable and bioadhesive platforms for multimodal physiological monitoring and therapeutic stimulation.
+  </p>
+</div>
+
+<div>
+  <img src="/assets/img/2.jpg" style="width:100%; height:320px; object-fit:cover;">
+  <h4 style="margin-top:15px; font-size:1.2rem; font-weight:700;">
+    Wearable Biosensors
+  </h4>
+  <p style="font-size:1rem; line-height:1.6; color:#444;">
+    Soft electrochemical interfaces for continuous, noninvasive health monitoring.
+  </p>
+</div>
+```
+
+  </div>
+
+</div>
 
