@@ -44,7 +44,7 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
 
 <div style="clear: both;"></div>
 
-```html
+
 <section style="
   background:#f5f5f5;
   margin-left:calc(50% - 50vw);
@@ -216,5 +216,5 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
   </div>
 
 </section>
-```
+
 
