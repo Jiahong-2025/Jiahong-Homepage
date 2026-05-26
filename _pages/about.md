@@ -31,7 +31,7 @@ latest_posts:
 
 
 <h2 style="margin-top:0px; margin-bottom:25px; font-size:2rem; font-weight:700; line-height:1.2;">
-Soft Bioelectronics for Multimodal Sensing and Stimulation
+Soft Bioelectronics for Sensing and Stimulation
 </h2>
 
 <p style="font-size:1.08rem; line-height:1.9; color:#333333; margin-bottom:22px;">
@@ -216,5 +216,4 @@ My work integrates stretchable materials, electrochemical sensing, wireless elec
   </div>
 
 </section>
-
 
